@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488577540679",
+    "firebase_url": "https://school-admin-f48d6-default-rtdb.firebaseio.com",
+    "project_id": "school-admin-f48d6",
+    "storage_bucket": "school-admin-f48d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488577540679:android:0a6b8daed108134b43c762",
+        "android_client_info": {
+          "package_name": "com.suku.suku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488577540679-vls0n3mpg56umofdevsdtggq3ti5hh29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suku.suku",
+            "certificate_hash": "371866fd1bebf9fafa2146156a29441fa342dd28"
+          }
+        },
+        {
+          "client_id": "488577540679-bkjm3rccq33lqav8181muhqfb3vcembg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDQT8PJ3KbYeyqkPalBPnYSKHXB7ke8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488577540679-bkjm3rccq33lqav8181muhqfb3vcembg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
